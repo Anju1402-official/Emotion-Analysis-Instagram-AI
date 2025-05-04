@@ -38,11 +38,8 @@ Visualized key emotional trends in posts and comment sections.
 
 ## 👩‍💻 Built By:
 1.ANJANA M S
-
 2.SANJAY R
-
 3.AMINA BEE K
-
 4.MANOJ S
 
 B.Tech AI & Data Science  
