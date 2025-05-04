@@ -37,6 +37,9 @@ Achieved ~85% accuracy on emotion classification.
 Visualized key emotional trends in posts and comment sections.
 
 ## 👩‍💻 Built By:
-Anju 💗  
+ANJANA M S 
+SANJAY R 
+AMINA BEE K 
+MANOJ S
 B.Tech AI & Data Science  
 2025 Project
